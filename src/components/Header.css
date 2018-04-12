@@ -1,0 +1,26 @@
+.block {
+    width: 300px;
+    height: 200px;
+    border: 1px solid black;
+    display: inline-block;
+    margin-left: 20px;
+    margin-bottom: 10px;
+    overflow: hidden;
+}
+.block img {
+    min-width: 100%;
+    max-width: 100%;
+    min-height: 100%;
+    max-height: 200px;
+}
+
+.menu {
+    font-size: 20px;
+    color: blue;
+    margin: 10px;
+    padding: 10px;
+    border: 2px solid blue;
+    border-radius: 10px;
+    text-decoration: none
+}
+
